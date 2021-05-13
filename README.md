@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GBinatti21
 - 👀 I’m interested in full stack development, web development and Finance (I'm a business major)
-- 🌱 I’m currently learning JS, CSS and Python
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning JS, HTML, CSS and Python
+- 💞️ I’m looking to collaborate on interesting development projects that involve data or business aplications
 - 📫 How to reach me: my email is giovannibinatti@gmail.com
 
 <!---
